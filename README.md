@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
-This project was made by react doc. It is a good way to understand some basic react principles, like state and props.
+This project was made by react docs. It is a good way to understand some basic react principles, like state and props.
 
 It is a tic tac toe game! A fun way to understand.
 
